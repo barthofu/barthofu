@@ -15,8 +15,7 @@
 <details >
     <summary>GitHub Stats</summary>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=barthofu&hide_border=true&show_icons=true" alt="barthofu's github stats" width="80%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barthofu&layout=compact" width="80%">
+        <img src="https://github-readme-stats.vercel.app/api?username=barthofu&hide_border=true&show_icons=true" alt="barthofu's github stats" width="60%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barthofu&layout=compact" width="60%">
     </p>
 </details>
 <details>
