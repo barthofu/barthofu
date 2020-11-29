@@ -44,6 +44,10 @@
     <p></p>
     <code>Real-time covid-19 mask detector on a video</code>
     <br>
+    <code>Javascript game</code>
+    <br>
+    <code>Application</code>
+    <br>
 </details>
 
 
