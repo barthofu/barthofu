@@ -8,7 +8,7 @@
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=barthoaz&redirect=true">
     <p align="center">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=barthoaz&cover_image=true&theme=natemoo-re" width="45%">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=barthoaz&cover_image=true&theme=novatorem" width="45%">
     </p>
 </a>
 
