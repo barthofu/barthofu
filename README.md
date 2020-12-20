@@ -8,14 +8,14 @@
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=barthoaz&redirect=true">
     <p align="center">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=barthofu&cover_image=true&theme=novatorem" width="45%">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=barthoaz&cover_image=true&theme=natemoo-re" width="45%">
     </p>
 </a>
 
 <details >
     <summary>GitHub Stats</summary>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=barthofu&hide_border=true&show_icons=true&layout=natemoo-re" alt="barthofu's github stats" width="40%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barthofu&layout=natemoo-re" width="40%">
+        <img src="https://github-readme-stats.vercel.app/api?username=barthofu&hide_border=true&show_icons=true" alt="barthofu's github stats" width="40%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barthofu&layout=compact" width="40%">
     </p>
 </details>
 <details>
