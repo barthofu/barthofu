@@ -42,6 +42,8 @@
 <details>
     <summary>Ideas for future works</summary>
     <p></p>
+    <code>Chocolatey client</code>
+    <br>
     <code>Real-time covid-19 mask detector on a video</code>
     <br>
     <code>Javascript game</code>
