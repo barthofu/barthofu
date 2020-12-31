@@ -42,7 +42,9 @@
 <details>
     <summary>Ideas for future works</summary>
     <p></p>
-    <code>Chocolatey client</code>
+    <code>Entire website validator using W3C validator API</code>
+    <br>
+    <code>Chocolatey client with pre-defined apps and checkbox to install them</code>
     <br>
     <code>Real-time covid-19 mask detector on a video</code>
     <br>
