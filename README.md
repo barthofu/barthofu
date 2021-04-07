@@ -42,15 +42,41 @@
 <details>
     <summary>Ideas for future works</summary>
     <p></p>
-    <code>Entire website validator using W3C validator API</code>
+    <li>Todo list (in rust, with sqlite)</li>
     <br>
-    <code>Chocolatey client with pre-defined apps and checkbox to install them</code>
+    <li>Make a custom homepage for navigators (equivalent to google)</li>
     <br>
-    <code>Real-time covid-19 mask detector on a video</code>
+    <li>Simple socket HTTP server</li>
     <br>
-    <code>Javascript game</code>
+    <li>Maze Generator (python & pygame)</li>
     <br>
-    <code>Application</code>
+    <li>Audio Visualizer</li>
+    <br>
+    <li>Virtual Pet Simulator (Waifu version)</li>
+    <br>
+    <li>Path resolving algorithms visualization</li>
+    <br>
+    <li>Linked Lists implementation (C)</li>
+    <br>
+    <li>Paste site (pastebin clone)</li>
+    <br>
+    <li>Create a logic gate simulator GUI</li>
+    <br>
+    <li>Time tracking app for desktop which tracks your working time</li>
+    <br>
+    <li>Vacations planer for companies</li>
+    <br>
+    <li>Entire website validator using W3C validator API</li>
+    <br>
+    <li>A better cd. You just type cd Directory and then it will try and go to the directory called Directory. If multiple results are found, it populates a list for you to choose from.</li>
+    <br>
+    <li>Chocolatey GUI client with pre-defined apps and checkbox to install them</li>
+    <br>
+    <li>Real-time covid-19 mask detector on a video</li>
+    <br>
+    <li>Javascript game</li>
+    <br>
+    <li>Application</li>
     <br>
 </details>
 
