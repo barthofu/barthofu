@@ -44,6 +44,8 @@
     <p></p>
     <li>Todo list (in rust, with sqlite)</li>
     <br>
+    <li>A website that can show online static websites repo on github which prevents from downloading the .zip on your desktop and then open it</li>
+    <br>
     <li>Make a custom homepage for navigators (equivalent to google)</li>
     <br>
     <li>Simple socket HTTP server</li>
