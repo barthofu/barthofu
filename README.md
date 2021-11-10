@@ -48,6 +48,10 @@
 <details>
     <summary>Ideas for future works</summary>
     <p></p>
+    <li>Song audio fingerprint comparator in Rust</li>
+    <br>
+    <li>Spotify playlist downloader using convertion to youtube (check audio fingerprints)</li>
+    <br>
     <li>Todo list (in rust, with sqlite)</li>
     <br>
     <li>A website that can show online static websites repo on github which prevents from downloading the .zip on your desktop and then open it</li>
@@ -71,8 +75,6 @@
     <li>Create a logic gate simulator GUI</li>
     <br>
     <li>Time tracking app for desktop which tracks your working time</li>
-    <br>
-    <li>Vacations planer for companies</li>
     <br>
     <li>Entire website validator using W3C validator API</li>
     <br>
