@@ -48,6 +48,8 @@
 <details>
     <summary>Ideas for future works</summary>
     <p></p>
+    <li>Linktree-like project, but way more beautiful and customizable (even a custom css option available to users?)</li>
+    <br>
     <li>Song audio fingerprint comparator in Rust</li>
     <br>
     <li>Spotify playlist downloader using convertion to youtube (check audio fingerprints)</li>
