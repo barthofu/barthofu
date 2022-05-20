@@ -18,5 +18,9 @@
   <strong><a href="https://discord.bio/p/bartho">Discord</a></strong> |
   <strong><a href="https://www.linkedin.com/in/bartholom%C3%A9-gili-653a931b8">LinkedIn</a></strong>
 </p>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=barthofu">    
+</p>
 
 ![](https://hit.yhype.me/github/profile?user_id=66025667)
