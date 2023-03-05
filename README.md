@@ -2,8 +2,10 @@
 
 <h1 align="center">Hi, I'm <a href="https://bartho.dev">Bartholomé Gili </a><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="5%"></h1>
 
+<br>
+
 <p align="center">
-    <img src="https://i.imgur.com/0H0nK8r.png" width="80%" >
+    <img src="https://user-images.githubusercontent.com/66025667/222978417-7a741900-c83b-4f20-bd21-b2dae4ef9667.png" width="80%" >
 </p>
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=barthoaz&redirect=true">
