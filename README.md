@@ -1,20 +1,14 @@
 <img src="https://i.imgur.com/ZCoUPH4.png">
 
-<h1 align="center">Hi, I'm <a href="https://bartho.dev">Bartholomé Gili </a></h1>
+
+<h1 align="center"></h1>
+
+![gh-profile-dark-theme](https://github.com/barthofu/barthofu/assets/66025667/043e1bd6-e700-430d-b462-f63f563c6d70)
+
+## [Links]()
 
 <br>
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/66025667/222978417-7a741900-c83b-4f20-bd21-b2dae4ef9667.png" width="80%" >
-</p>
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=barthoaz&redirect=true">
-    <p align="center">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=barthoaz&cover_image=true&theme=novatorem" width="45%">
-    </p>
-</a>
-
-## [Links]()
 <p align="center">
   <strong><a href="https://bartho.dev">Personal Website</a></strong> |
   <strong><a href="https://discord.bio/p/bartho">Discord</a></strong> |
