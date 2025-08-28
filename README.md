@@ -13,7 +13,6 @@
 
 <p align="center">
   <strong><a href="https://bartho.dev">Personal Website</a></strong> |
-  <strong><a href="https://discord.bio/p/bartho">Discord</a></strong> |
   <strong><a href="https://www.linkedin.com/in/bartholom%C3%A9-gili-653a931b8">LinkedIn</a></strong>
 </p>
 
